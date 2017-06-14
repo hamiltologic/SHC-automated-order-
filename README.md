@@ -93,7 +93,8 @@ The important columns referenced by the program are "product_code",	"product", "
 
 ## Authors
 
-* **Hamilton Tsang** - *Initial work* - [Hamiltologic](https://github.com/Hamiltologic)
+* **Hamilton Tsang, MD** - *Initial work* - [Hamiltologic](https://github.com/Hamiltologic)
+* **Tho Duc Pham, MD**
 
 See also the list of [contributors](https://github.com/placeholderplaceholder) who participated in this project.
 
